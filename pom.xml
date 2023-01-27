@@ -23,16 +23,34 @@
     <artifactId>poi-ooxml</artifactId>
     <version>3.9</version>
 </dependency>  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
-	  
+	  <!-- https://mvnrepository.com/artifact/com.relevantcodes/extentreports -->
+<dependency>
+        <groupId>com.aventstack</groupId>
+        <artifactId>extentreports</artifactId>
+        <version>3.0.0</version>
+    </dependency>
+
+
+
+
+
+
+
+
+
+
+
+
+  	<dependency>
+  		<groupId>SndAutomation</groupId>
+  		<artifactId>SndAutomate</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>tutorial</groupId>
+  		<artifactId>tutorial</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
   </dependencies>
   
   
